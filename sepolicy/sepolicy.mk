@@ -13,6 +13,7 @@ BOARD_SEPOLICY_UNION += \
     seapp_contexts \
     auditd.te \
     healthd.te \
+    hostapd.te \
     installd.te \
     netd.te \
     su.te \

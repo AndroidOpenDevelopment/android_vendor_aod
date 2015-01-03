@@ -16,7 +16,6 @@ BOARD_SEPOLICY_UNION += \
     hostapd.te \
     installd.te \
     netd.te \
-    su.te \
     sysinit.te \
     system.te \
     ueventd.te \
